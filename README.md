@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axelmalik&label=Profile%20views&color=0e75b6&style=flat" alt="axelmalik" /> </p>
 
+- 🔭 I’m currently working on **Senja Solutions**
+
 - 📫 How to reach me **axelmalik07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
