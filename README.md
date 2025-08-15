@@ -19,7 +19,7 @@ I’m a passionate coder who believes that code isn’t just about functions and
 - Constantly leveling up my skills  
 - Collaborating with creative minds
 
-🌟 **Currently working at [Senja Solutions](https://senjasolutions.com)** — building awesome stuff and learning every day!
+🌟 **Currently working at [Senja Solutions](https://senja.co.uk)** — building awesome stuff and learning every day!
 
 ---
 
