@@ -1,42 +1,15 @@
-# Hey, I'm Axel Malik 👋
+<h1 align="center">Hi 👋, I'm Axel Malik</h1>
+<h3 align="center">I’m a passionate coder who believes that code isn’t just about functions and variables—it's about making an impact. Whether I’m building with a team or hacking away on solo projects, I dive deep, learn fast, and never settle for “just okay.”</h3>
 
-🚀 **Junior Web Developer** on a mission to craft awesome web & mobile experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelmalik&label=Profile%20views&color=0e75b6&style=flat" alt="axelmalik" /> </p>
 
-**Tech Stack:**  
-- ⚡ Node.js & React — Powering dynamic web apps  
-- ✨ Next.js — For blazing-fast, modern websites  
-- 📱 Flutter — Bringing ideas to life on mobile
+- 📫 How to reach me **axelmalik07@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/axelmal1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axelmal1k" height="30" width="40" /></a>
+<a href="https://instagram.com/_axelmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_axelmalik" height="30" width="40" /></a>
+</p>
 
-## About Me
-
-I’m a passionate coder who believes that code isn’t just about functions and variables—it's about making an impact. Whether I’m building with a team or hacking away on solo projects, I dive deep, learn fast, and never settle for “just okay.”
-
-🛠️ **What drives me?**  
-- Turning tea and snacks into code  
-- Solving real-world problems  
-- Constantly leveling up my skills  
-- Collaborating with creative minds
-
-🌟 **Currently working at [Senja Solutions](https://senja.co.uk)** — building awesome stuff and learning every day!
-
----
-
-## Beyond Code
-
-When I’m not in front of the screen, you’ll catch me:  
-🎬 Watching movies & geeking out over cinematography  
-📚 Reading (and sometimes writing) books  
-🎮 Gaming to unwind or spark inspiration
-
----
-
-## Let’s Connect!
-
-- Instagram: [\_axelmalik](https://instagram.com/_axelmalik)
-- Twitter: [axelmal1k](https://twitter.com/axelmal1k)
-
----
-
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
